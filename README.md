@@ -19,7 +19,7 @@ Install the dependencies and start the server.
 ```sh
 cd HatchTestExpress
 npm i
-node .
+npm start
 ```
 
 ## Explore
